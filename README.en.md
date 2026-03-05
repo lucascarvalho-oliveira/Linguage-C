@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Language-Português-green?style=for-the-badge">
+  </a>
+</p>
+
 # C and C++ Study Repository
 This repository contains the code developed during my studies in C and C++.
 
